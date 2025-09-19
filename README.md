@@ -52,17 +52,12 @@ The dataset **`ford.csv`** contains features like model, year, transmission, mil
 - Extend dataset with multiple car brands and geographies  
 - Use advanced GenAI for **Q&A-style recommendations** (e.g., "Best car under ₹10 lakhs with <50,000 mileage")  
 
----
 
-## ▶️ How to Run  
+## 🙋‍♂️ About Me
 
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/car-price-prediction.git
-   cd car-price-prediction
+**👨‍💼 Dhruv Nirwan**  
+Data Analyst | Power BI | SQL | Excel | Python | Snowflake | Cloud (GCP)  
 
-car-price-prediction-genai-ml/
-│── README.md
-│── requirements.txt
-│── Car_Price_Prediction.ipynb
-│── ford.csv
+🔗 [LinkedIn](https://www.linkedin.com/in/dhruv-nirwan)  
+📧 dhruvnirwan836@gmail.com  
+📂 [GitHub: dhruvnirwan](https://github.com/dhruvnirwan)
